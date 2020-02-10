@@ -1,0 +1,2823 @@
+﻿<HTML>
+<HEAD><TITLE>Reporte por Embarcación</TITLE>
+</HEAD>
+<BODY>
+<center>
+<table  width="96%" cellpadding="0" cellspacing="0" border="0" >
+<tr>
+	<td>
+	<img src="https://extranet.produce.gob.pe/aplicaciones/desembarque/logoproduce.gif" width="175" height="49">
+	</td>
+	<td class="td_intranet_item1"  align="right">&nbsp;</td>
+</tr>
+</table>
+<br><br>
+<br><br>
+<TABLE cellSpacing=0 cellPadding=0 width="96%" bgColor=#eef2f5 border=0  align=center>
+  <TR>
+    <TD class="titulos-servicios-embarcaciones" colspan="16">
+	  <div align="center" style="font-size: 14px;font-weight: bold; "><strong>REPORTE DE DESCARGAS  DEL 12/11/2019 AL 12/11/2019 </strong></div></TD>
+  </TR>
+</TABLE>
+
+<TABLE cellSpacing=0 cellPadding=0 width="96%" align=center border=0>
+        <TR height=20 style="FONT-WEIGHT: bold; FONT-SIZE: 12px; HEIGHT: 25px;">
+			<TD style="WIDTH: 93px;"  class="titulos-servicios-embarcaciones" colspan="2"><B style="font-weight: bold;">PUERTO</B></TD>
+			<TD align=left  class="textoblack"  colspan="4">[TODOS]</TD>
+			<TD style="WIDTH: 93px;"  class="titulos-servicios-embarcaciones" colspan="2"><B style="font-weight: bold;">PLANTA</B></TD>
+			<TD align=left  class="textoblack"  colspan="4">[TODOS]</TD>
+		</TR>
+        <TR height=20 style="FONT-WEIGHT: bold; FONT-SIZE: 12px; HEIGHT: 25px;">
+			<TD style="WIDTH: 93px;"  class="titulos-servicios-embarcaciones" colspan="2"><B style="font-weight: bold;">EMBARCACI&Oacute;N</B></TD>
+			<TD align=left  class="textoblack"  colspan="4"></TD>
+			<TD style="WIDTH: 93px;"  class="titulos-servicios-embarcaciones" colspan="2"><B style="font-weight: bold;">ESPECIE</B></TD>
+			<TD align=left  class="textoblack"  colspan="4">[TODOS]</TD>
+		</TR>
+</TABLE>
+		  <BR>
+<TABLE  WIDTH="96%" class="sortable" id="anyid" 
+style="BORDER-LEFT-COLOR: #30749c; BORDER-BOTTOM-COLOR: #30749c; BORDER-TOP-COLOR: #30749c; BORDER-COLLAPSE: collapse; HEIGHT: 20px; BORDER-RIGHT-COLOR: #30749c" 
+ cellSpacing=0 rules=all border=1  align=center>
+	
+	<TR  style="HEIGHT: 25px;"  class="titulos-servicios-embarcaciones" >
+		<th style="WIDTH: 5%; HEIGHT: 20px" align="center"><div align="center">Nro</div></th>	
+		<th style="WIDTH: 5%; HEIGHT: 20px" align="center"><div align="center">ID</div></th>			
+		<th style="WIDTH: 10%;  HEIGHT: 20px" align="center"><div align="center">Puerto</div></th>				
+		<th style="WIDTH: 15%;  HEIGHT: 20px" align="center"><div align="center">Planta</div></th>			
+		<th style="WIDTH: 15%;  HEIGHT: 20px" align="center"><div align="center">Armador</div></th>	
+		<th style="WIDTH: 10%;  HEIGHT: 20px" align="center"><div align="center">Embarcación</div></th>
+		<th style="WIDTH: 5%;  HEIGHT: 20px" align="center"><div align="center">Matr&iacute;cula</div></th>			
+		<th style="WIDTH: 5%;  HEIGHT: 20px" align="center"><div align="center">Especie</div></th>		
+		<th style="WIDTH: 5%;  HEIGHT: 20px" align="center"><div align="center">Tolva</div></th>
+        <th style="WIDTH: 5%;  HEIGHT: 20px" align="center"><div align="center">Nro. Reporte</div></th>
+        
+		<th style="WIDTH: 2%;  HEIGHT: 20px" align="center"><div align="center">TM Descargadas</div></th>	
+		<th style="WIDTH: 2%;  HEIGHT: 20px" align="center"><div align="center">TM Declarado</div></th>
+		<th style="WIDTH: 10%; HEIGHT: 20px" align="center"><div align="center">Acta de EIP</div></th>				
+		<th style="WIDTH: 2%;  HEIGHT: 20px" align="center"><div align="center">Fecha</div></th>						
+		<th style="WIDTH: 2%;  HEIGHT: 20px" align="center"><div align="center">Hora Inicio</div></th>								
+		<th style="WIDTH: 2%;  HEIGHT: 20px" align="center"><div align="center">Hora T&eacute;rmino</div></th>							
+
+		<th style="WIDTH: 2%;  HEIGHT: 20px" align="center"><div align="center">		  Supervisora</div></th>				
+				
+				
+		</TR>
+
+   	<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>1</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5416963</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA CENTINELA S.A.C. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>JACINTO ECHEANDIA  RAQUEL DEL MILAGRO ,TINCEP AREVALO  JOSE ANDRES ,JACINTO LLENQUE  JUANA AMELIA</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		ALABADO SEA DIOS&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PL-017354-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000003312</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>59.355</TD>
+		<TD style="FONT-SIZE: 11px" align=right>68.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-481-001698			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:10</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>00:40</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>2</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5416969</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>COISHCO                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>LOBOS MARINOS S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		CRUZ DEL SUR II&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PL-19860-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000009925</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>67.240</TD>
+		<TD style="FONT-SIZE: 11px" align=right>75.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-109-001881			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:25</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>00:56</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>3</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5416973</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		CORPORACION PESQUERA INCA S.A.C. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>AGUILAR LAZARO  LUIS JOSE ,AGUILAR LAZARO  CARLOS JOSE</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		AGUSTINA 1&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PL-17785-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>4</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000005672</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>22.790</TD>
+		<TD style="FONT-SIZE: 11px" align=right>20.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-021-002455			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:12</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>00:51</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>4</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5416977</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PERICHE PANTA  CRISPIN</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MOISES I&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-10407-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>3</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002641</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>51.245</TD>
+		<TD style="FONT-SIZE: 11px" align=right>55.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-149-001518			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:21</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>00:48</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>5</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5416983</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>MARTINEZ JACINTO  JUAN ,PANTA ECA  MARIA DILSIA ,MARTINEZ JACINTO  JULIO ,PANTA DE MARTINEZ  HILDA MARUJA</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		LORENA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-55049-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002718</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>58.770</TD>
+		<TD style="FONT-SIZE: 11px" align=right>60.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-149-001516			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:39</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>01:15</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>6</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5416984</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		CORPORACION PESQUERA INCA S.A.C. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA TAMBO S.R.L.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		LIMA 5&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-2914-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000005671</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>125.700</TD>
+		<TD style="FONT-SIZE: 11px" align=right>160.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-021-002433			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:15</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>01:22</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>7</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5416985</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA DIAMANTE S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES MILAGRO DE MI MADRE S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MILAGRO DE MI MADRE&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-16871-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000001519</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>55.850</TD>
+		<TD style="FONT-SIZE: 11px" align=right>60.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-143-001723			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:08</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>00:41</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>8</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5416986</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>COISHCO                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA HAYDUK S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>HUAMANCHUMO CASTRO  ORLANDO ,HUAMANCHUMO CASTRO  JUAN ,HUAMANCHUMO CASTRO  JUBERT OMAR ,HUAMANCHUMO CASTRO  MARLENY ,HUAMANCHUMO CASTRO  MELBA MERCEDES ,HUAMANCHUMO CASTRO  WILLIAM</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		CRUCERO DEL PACIFICO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PL-20643-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>3</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000010160</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>32.865</TD>
+		<TD style="FONT-SIZE: 11px" align=right>35.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-069-002231			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:48</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>01:07</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>9</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5416987</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>COISHCO                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA CANTABRIA S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CANTABRIA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		ATLANTICO I&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-5300-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000004942</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>73.605</TD>
+		<TD style="FONT-SIZE: 11px" align=right>80.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-017-000593			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>01:07</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>01:30</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>10</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5416990</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA PELAYO S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		DON FRANCISCO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-4901-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000004845</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>130.520</TD>
+		<TD style="FONT-SIZE: 11px" align=right>130.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-561-002215			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:08</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>00:47</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>11</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5416993</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		COMPA&Ntilde;IA PESQUERA DEL PACIFICO CENTRO S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA HUMACARE S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		RENZO 1&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-2778-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000000014</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>28.310</TD>
+		<TD style="FONT-SIZE: 11px" align=right>40.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-113-000549			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:00</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>01:20</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>12</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5416996</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>COISHCO                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>LOBOS MARINOS S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		CRUZ DEL SUR III&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PL-2279-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000009927</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>64.515</TD>
+		<TD style="FONT-SIZE: 11px" align=right>70.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-109-001879			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>01:16</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>01:48</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>13</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5416998</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		CORPORACION PESQUERA INCA S.A.C. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>CORPORACION PESQUERA INCA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MATTY&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-20286-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000009019</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>39.475</TD>
+		<TD style="FONT-SIZE: 11px" align=right>50.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-578-001529			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:32</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>00:45</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>14</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5416999</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>COISHCO                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA HAYDUK S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>JAIME PE&Ntilde;A  WILMER FAUSTINO ,INURRITEGUI BERNAL  MARIA ALINA</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		COSTA BELLA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PL-2251-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>3</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000010161</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>43.595</TD>
+		<TD style="FONT-SIZE: 11px" align=right>45.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-069-002230			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>01:26</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>01:45</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>15</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417003</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA DIAMANTE S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>GONZALES RUMICHE  MANUEL DE LA CRUZ ,CHUNGA DE GONZALES  MARGARITA ,GONZALES RUMICHE  JOSE MARIA ,GONZALES RUMICHE  VICENTE</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		DON FELIX III&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-6154-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>4</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000000235</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>34.110</TD>
+		<TD style="FONT-SIZE: 11px" align=right>35.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-143-001724			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:43</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>01:06</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>16</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417004</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA EXALMAR S.A.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PANTA IPANAQUE  VICENTE ,RUIZ DE PANTA  SANTOS EMERENCIANA ,PANTA IPANAQUE  VENANCIO ,TUME PANTA  FELICITA ,PANTA IPANAQUE  ARTEMIO ,ALVAREZ DE PANTA  LUISA ,PANTA IPANAQUE  MIGUEL</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		DON ROBERTH&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-43278-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000004801</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>64.105</TD>
+		<TD style="FONT-SIZE: 11px" align=right>73.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-138-002575			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:07</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>00:44</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>17</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417005</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA NIROCI S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		HUACHO 9&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				IO-0964-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>3</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002642</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>47.080</TD>
+		<TD style="FONT-SIZE: 11px" align=right>60.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-149-001519			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>01:28</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>01:59</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>18</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417006</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>COISHCO                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>LOBOS MARINOS S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MI DIONICIO 3&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-3401-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000008517</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>49.690</TD>
+		<TD style="FONT-SIZE: 11px" align=right>50.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-109-001880			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>01:42</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:10</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>19</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417008</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA EXALMAR S.A.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA EXALMAR S.A.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SAMANCO 3&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-4503-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>3</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000009822</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>293.510</TD>
+		<TD style="FONT-SIZE: 11px" align=right>300.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-120-002520			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:48</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:44</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>20</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417009</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		GER EXPORT S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>MARIN TABOADA  JUAN MIGUEL</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SANTO TORIBIO I&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-12171-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000000396</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>30.085</TD>
+		<TD style="FONT-SIZE: 11px" align=right>33.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-498-000296			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:15</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>00:57</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>21</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417010</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA DIAMANTE S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CASABLANCA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		BUJAMA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-6331-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000004177</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>134.700</TD>
+		<TD style="FONT-SIZE: 11px" align=right>140.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-143-001751			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:24</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>01:21</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>22</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417011</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>COISHCO                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>NAHIARA ESMERALDA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SILVIA ESMERALDA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-11169-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000009928</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>45.945</TD>
+		<TD style="FONT-SIZE: 11px" align=right>50.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-109-001882			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>02:02</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:48</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>23</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417012</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA EXALMAR S.A.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>VITE ZETA  SANTOS</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MILAGRO DE LA VIRGEN&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-6188-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>3</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000006125</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>53.430</TD>
+		<TD style="FONT-SIZE: 11px" align=right>60.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-138-002576			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:32</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>00:51</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>24</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417013</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA EXALMAR S.A.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA EXALMAR S.A.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		GUANAY&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-14964-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000009666</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>182.285</TD>
+		<TD style="FONT-SIZE: 11px" align=right>190.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-120-002481			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:39</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:10</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>25</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417014</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PANTA PANTA  JOSE MARCELINO ,PANTA PANTA  MARIANO ,PANTA PANTA  GILBERTO ,PANTA PANTA  PEDRO ,ALVAREZ ECHE  MARIA DOMINGA ,JACINTO ECHE  MARIA MAGDALENA</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SAN PEDRO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-17971-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002719</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>42.190</TD>
+		<TD style="FONT-SIZE: 11px" align=right>50.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-149-001521			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>01:51</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:17</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>26</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417015</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>TECNOLOGICA DE ALIMENTOS S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		TASA 411&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PS-11080-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000006131</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>86.840</TD>
+		<TD style="FONT-SIZE: 11px" align=right>110.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-561-002230			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:04</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>01:29</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>27</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417016</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA CENTINELA S.A.C. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CENTINELA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		ERNESTINA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-10397-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002907</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>112.150</TD>
+		<TD style="FONT-SIZE: 11px" align=right>140.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-481-001700			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>02:05</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:48</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>28</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417017</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PERICHE PANTA  CRISPIN ,PERICHE PERICHE  JUAN CARLOS</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		BENDICION DE MI MADRE&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-18762-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002596</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>71.075</TD>
+		<TD style="FONT-SIZE: 11px" align=right>85.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-149-001520			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>01:27</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:17</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>29</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417018</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>EMPRESA PESQUERA PERCAR S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		CARMEN JUDITH 2&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				IO-5112-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000006132</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>22.370</TD>
+		<TD style="FONT-SIZE: 11px" align=right>25.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-561-002217			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>01:58</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:21</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>30</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417019</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA DIAMANTE S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>VITE MORALES  LEONARDO FELIPE ,ALVAREZ ECHE  FLORA</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MAURO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-58963-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000001520</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>43.015</TD>
+		<TD style="FONT-SIZE: 11px" align=right>45.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-143-001725			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>01:08</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>01:23</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>31</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417020</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA NINFAS DEL MAR S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		COQUI X&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-28225-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000004846</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>224.315</TD>
+		<TD style="FONT-SIZE: 11px" align=right>220.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-561-002216			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>01:23</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:21</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>32</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417021</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA EXALMAR S.A.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>CORPORACION MAR DEL SUR S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MAR DEL SUR&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-6526-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000004802</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>118.455</TD>
+		<TD style="FONT-SIZE: 11px" align=right>120.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-138-002577			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:57</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>01:59</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>33</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417022</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA EXALMAR S.A.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>NEGOCIOS PESQUEROS MAR PACIFICO S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MAR PACIFICO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-18433-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000008490</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>68.035</TD>
+		<TD style="FONT-SIZE: 11px" align=right>65.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-138-002578			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:52</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:04</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>34</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417023</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>EMPRESA PESQUERA MARISU S.R.L.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		NUEVA ESPERANZA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-28617-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>4</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002961</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>97.620</TD>
+		<TD style="FONT-SIZE: 11px" align=right>105.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-149-001522			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>02:11</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>03:08</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>35</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417024</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA HAYDUK S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA JADA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		C&Z 7&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-13917-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>3</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000006147</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>226.450</TD>
+		<TD style="FONT-SIZE: 11px" align=right>250.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-140-002226			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:49</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:32</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>36</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417025</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA NIROCI S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MODESTO 3&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-20661-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>3</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000005306</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>214.930</TD>
+		<TD style="FONT-SIZE: 11px" align=right>220.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-561-002232			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>01:38</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>03:21</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>37</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417026</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA HAYDUK S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA JADA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		C&Z 3&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-1887-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000005790</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>240.600</TD>
+		<TD style="FONT-SIZE: 11px" align=right>259.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-140-002225			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:51</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:31</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>38</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417027</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA DIAMANTE S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CASABLANCA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		NATALIE&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-1242-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>4</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000000236</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>38.670</TD>
+		<TD style="FONT-SIZE: 11px" align=right>40.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-143-001753			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>02:10</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:39</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>39</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417028</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA EXALMAR S.A.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA MIGUEL S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MIGUEL&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-15669-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>3</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000006126</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>49.575</TD>
+		<TD style="FONT-SIZE: 11px" align=right>50.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-138-002579			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>01:40</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:22</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>40</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417029</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA DIAMANTE S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA JADA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		C&Z 5&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-1845-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000004178</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>22.345</TD>
+		<TD style="FONT-SIZE: 11px" align=right>35.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-143-001755			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>02:05</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:28</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>41</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417030</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>COISHCO                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA CANTABRIA S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CANTABRIA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		ALBATROS&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PS-6408-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000005485</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>201.310</TD>
+		<TD style="FONT-SIZE: 11px" align=right>210.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-017-000595			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>02:33</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>03:44</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>42</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417031</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PANTA PANTA DE JACINTO  LIDIA ,JACINTO PANTA  LUCAS ,PANTA DE JACINTO  MARIA SANTOS TRINIDAD ,JACINTO CHUNGA  DEMETRIO</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MI HERMINIA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-21127-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>3</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002643</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>53.770</TD>
+		<TD style="FONT-SIZE: 11px" align=right>65.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-149-001523			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>03:24</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>03:53</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>43</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417032</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA DIAMANTE S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA LAVIANA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MILPAZ&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-1862-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000001521</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>30.905</TD>
+		<TD style="FONT-SIZE: 11px" align=right>30.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-143-001752			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>02:12</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:22</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>44</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417033</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA CENTINELA S.A.C. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES ECCOLA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		CUZCO 1&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-0561-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002908</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>189.355</TD>
+		<TD style="FONT-SIZE: 11px" align=right>210.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-481-001702			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>03:03</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>04:22</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>45</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417034</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>COISHCO                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA CANTABRIA S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CANTABRIA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MAGALLANES&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-6324-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000004943</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>250.275</TD>
+		<TD style="FONT-SIZE: 11px" align=right>230.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-017-000594			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>02:04</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>03:53</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>46</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417035</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		GER EXPORT S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>CHUNGA PURIZACA  EUGENIA</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		JABET II&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-10744-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000000397</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>90.700</TD>
+		<TD style="FONT-SIZE: 11px" align=right>100.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-498-000297			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>02:00</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>03:38</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>47</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417036</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>EMPRESA PESQUERA PERCAR S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		CARMEN JUDITH 3&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				IO-2393-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000006133</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>48.505</TD>
+		<TD style="FONT-SIZE: 11px" align=right>50.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-561-002233			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>03:00</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>03:40</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>48</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417037</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>COISHCO                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>AUSTRAL GROUP S.A.A</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		KIANA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-18812-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000008518</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>281.485</TD>
+		<TD style="FONT-SIZE: 11px" align=right>290.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-109-001883			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>02:43</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>04:35</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>49</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417038</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA Z Y T S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		ANTONIA II&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-18965-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002597</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>85.505</TD>
+		<TD style="FONT-SIZE: 11px" align=right>90.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-149-001524			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>02:58</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>03:51</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>50</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417039</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA DIAMANTE S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA NATALIA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		DANIA 1&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-23558-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000004179</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>138.215</TD>
+		<TD style="FONT-SIZE: 11px" align=right>160.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-143-001756			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>02:46</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>03:40</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>51</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417040</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA EXALMAR S.A.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>TAPIA DE HERNANDEZ  DELIA ,HERNANDEZ PORTAL  PABLO RAUL</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		LINDA ROSA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-4368-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000004803</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>26.390</TD>
+		<TD style="FONT-SIZE: 11px" align=right>30.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-138-002580			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>02:41</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>03:00</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>52</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417041</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>AUSTRAL GROUP S.A.A</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		DON LUIS&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-12186-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000004847</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>208.770</TD>
+		<TD style="FONT-SIZE: 11px" align=right>240.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-561-002218			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>03:25</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>04:18</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>53</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417042</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>SAMANCO                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>TECNOLOGICA DE ALIMENTOS S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		TASA 37&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PS-06711-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000001575</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>215.800</TD>
+		<TD style="FONT-SIZE: 11px" align=right>220.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-036-000383			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:03</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>03:19</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>54</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417043</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA EXALMAR S.A.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>CORPORACION LIOBRAND S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MARIA FIDELA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PL-2125-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000008491</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>27.765</TD>
+		<TD style="FONT-SIZE: 11px" align=right>30.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-138-002581			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>02:51</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>03:16</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>55</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417044</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>EMPRESA PESQUERA PERCAR S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		CARMEN JUDITH 4&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				IO-2394-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000006134</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>18.930</TD>
+		<TD style="FONT-SIZE: 11px" align=right>25.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-561-002220			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>03:58</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>04:16</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>56</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417045</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA HAYDUK S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>GROUP VIOLETA S.A.C</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		VICTOR III&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-22133-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>3</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000006148</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>69.210</TD>
+		<TD style="FONT-SIZE: 11px" align=right>85.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-140-002228			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>03:07</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>03:53</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>57</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417046</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA DIAMANTE S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CASABLANCA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SK 4&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-2772-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>4</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000000237</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>27.345</TD>
+		<TD style="FONT-SIZE: 11px" align=right>40.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-143-001758			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>03:33</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>03:58</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>58</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417047</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA EXALMAR S.A.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA EXALMAR S.A.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		NUEVO SAN TELMO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-13027-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>3</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000009823</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>95.975</TD>
+		<TD style="FONT-SIZE: 11px" align=right>110.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-120-002521			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>04:15</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>04:55</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>59</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417048</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PANTA ALVAREZ  CARLOS ,PANTA ALVAREZ  EDUARDO JOSE</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		CARLOS Y EDUARDO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-3901-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002720</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>39.700</TD>
+		<TD style="FONT-SIZE: 11px" align=right>40.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-149-001526			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>04:17</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>04:44</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>60</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417049</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA MAJAT S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MALAGA 1&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-36422-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>4</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002962</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>27.760</TD>
+		<TD style="FONT-SIZE: 11px" align=right>40.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-149-001529			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>04:11</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>04:44</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>61</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417050</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA HAYDUK S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>GROUP VIOLETA S.A.C</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		VICTORIA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				SY-5984-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000005791</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>71.895</TD>
+		<TD style="FONT-SIZE: 11px" align=right>77.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-140-002227			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>03:27</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>03:52</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>62</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417051</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA EXALMAR S.A.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA EXALMAR S.A.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MARIA MERCEDES&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PL-11393-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>3</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000006127</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>96.080</TD>
+		<TD style="FONT-SIZE: 11px" align=right>95.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-138-002582			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>02:34</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>03:49</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>63</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417054</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>TECNOLOGICA DE ALIMENTOS S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		TASA 210&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-02461-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>3</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000005307</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>23.020</TD>
+		<TD style="FONT-SIZE: 11px" align=right>30.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-561-002234			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>04:03</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>04:30</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>64</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417055</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>COISHCO                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA CANTABRIA S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CANTABRIA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		ATLANTICO II&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-9905-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000005486</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>206.340</TD>
+		<TD style="FONT-SIZE: 11px" align=right>200.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-017-000596			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>04:05</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>05:10</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>65</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417056</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA EXALMAR S.A.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA EXALMAR S.A.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		VALENTINA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-41037-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000004804</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>98.285</TD>
+		<TD style="FONT-SIZE: 11px" align=right>100.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-138-002583			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>03:19</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>04:10</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>66</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417057</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA CENTINELA S.A.C. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CENTINELA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MANTA 3&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-6614-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002909</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>138.250</TD>
+		<TD style="FONT-SIZE: 11px" align=right>150.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-481-001703			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>04:40</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>05:37</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>67</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417058</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>TUME MORALES  FELIPE ,ECA DE TUME  MARIA CRISTINA</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		BENDICION DEL SE&Ntilde;OR&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-21085-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>3</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002644</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>41.095</TD>
+		<TD style="FONT-SIZE: 11px" align=right>45.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-149-001528			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>04:59</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>05:37</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>68</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417059</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>VEGUETA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>TECNOLOGICA DE ALIMENTOS S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		TASA 419&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-12974-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000003571</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>279.150</TD>
+		<TD style="FONT-SIZE: 11px" align=right>300.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1508-042-000837			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>04:10</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>05:39</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>BUREAU VERITAS DEL PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>69</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417060</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA EXALMAR S.A.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA EXALMAR S.A.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		PONTEVEDRA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PL-20741-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000008492</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>53.905</TD>
+		<TD style="FONT-SIZE: 11px" align=right>65.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-138-002584			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>03:53</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>04:44</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>70</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417061</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA DIAMANTE S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CASABLANCA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SK 5&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-2011-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000004180</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>30.290</TD>
+		<TD style="FONT-SIZE: 11px" align=right>40.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-143-001759			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>04:43</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>05:06</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>71</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417062</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA DIAMANTE S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CASABLANCA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		OLLEROS&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-6337-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>4</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000000238</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>79.850</TD>
+		<TD style="FONT-SIZE: 11px" align=right>60.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-143-001760			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>04:41</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>05:22</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>72</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417063</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA EXALMAR S.A.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA PAOLA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		PAOLA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-5791-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>3</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000006128</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>44.770</TD>
+		<TD style="FONT-SIZE: 11px" align=right>60.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-138-002585			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>04:19</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>04:45</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>73</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417064</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>TECNOLOGICA DE ALIMENTOS S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		TASA 23&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				IO-11723-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000004848</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>90.180</TD>
+		<TD style="FONT-SIZE: 11px" align=right>90.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-561-002235			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>04:43</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>05:15</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>74</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417065</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>TECNOLOGICA DE ALIMENTOS S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		TASA 21&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				HO-10201-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>3</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000005308</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>113.680</TD>
+		<TD style="FONT-SIZE: 11px" align=right>130.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-561-002221			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>05:02</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>06:03</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>75</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417066</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		CORPORACION PESQUERA INCA S.A.C. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>CORPORACION PESQUERA INCA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		BRUNELLA II&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-18818-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000005672</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>228.880</TD>
+		<TD style="FONT-SIZE: 11px" align=right>250.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-021-002434			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>04:29</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>06:30</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>76</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417067</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>TECNOLOGICA DE ALIMENTOS S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		TASA 220&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-1250-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000006135</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>24.010</TD>
+		<TD style="FONT-SIZE: 11px" align=right>25.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-561-002236			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>04:43</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>05:10</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>77</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417068</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		GER EXPORT S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA LAVIANA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		BELEN 1&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PS-0575-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000000398</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>147.275</TD>
+		<TD style="FONT-SIZE: 11px" align=right>170.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-498-000298			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>04:00</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>06:20</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>78</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417069</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		CFG INVESTMENT S.A.C. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>CFG INVESTMENT S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MARU&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				SE-9970-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000005472</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>325.915</TD>
+		<TD style="FONT-SIZE: 11px" align=right>330.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-349-001103			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>03:58</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>06:35</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>79</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417070</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>VEGUETA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA HAYDUK S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA HAYDUK S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MARYLIN II&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-15260-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000011353</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>305.550</TD>
+		<TD style="FONT-SIZE: 11px" align=right>350.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1508-141-000441			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>05:48</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>07:28</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>BUREAU VERITAS DEL PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>80</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417071</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		GER EXPORT S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>CUSTODIO HUAMANCHUMO  NICOLASA</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		BEATITA DE HUMAY 1&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PL-10319-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000000399</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>31.140</TD>
+		<TD style="FONT-SIZE: 11px" align=right>33.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-498-000299			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>06:40</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>07:20</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>81</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417072</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHANCAY                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA CENTINELA S.A.C. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CENTINELA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SANTA ADELA II&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-14845-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000004922</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>194.550</TD>
+		<TD style="FONT-SIZE: 11px" align=right>200.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1506-018-000380			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>05:00</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>07:45</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>BUREAU VERITAS DEL PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>82</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417073</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>COISHCO                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>AUSTRAL GROUP S.A.A</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		ROSA II&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-16948-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000008519</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>265.270</TD>
+		<TD style="FONT-SIZE: 11px" align=right>280.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-109-001884			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>06:22</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>08:34</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>83</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417074</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>VEGUETA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>TECNOLOGICA DE ALIMENTOS S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		TASA 42&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-18294-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000003572</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>267.440</TD>
+		<TD style="FONT-SIZE: 11px" align=right>340.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1508-042-000838			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>06:04</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>07:50</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>BUREAU VERITAS DEL PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>84</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417075</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA DIAMANTE S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA JADA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		C&Z 6&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-5702-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>3</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000005728</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>83.205</TD>
+		<TD style="FONT-SIZE: 11px" align=right>100.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-143-001761			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>04:42</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>07:59</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>85</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417076</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>COISHCO                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA HAYDUK S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA HAYDUK S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		BAMAR I&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-16660-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000010601</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>349.535</TD>
+		<TD style="FONT-SIZE: 11px" align=right>400.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-069-002140			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>04:54</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>08:21</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>86</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417077</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		GER EXPORT S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA JUANITA S.R.L.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		KIMBERLY&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				HO-20034-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000000401</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>65.895</TD>
+		<TD style="FONT-SIZE: 11px" align=right>85.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-498-000301			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>08:07</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>09:15</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>87</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417079</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA HAYDUK S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA HAYDUK S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		ISABELITA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-28791-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000006436</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>409.230</TD>
+		<TD style="FONT-SIZE: 11px" align=right>440.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-140-002229			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>06:34</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>09:03</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>88</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417080</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA DIAMANTE S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA PELAYO S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		DO&Ntilde;A ADDY&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-5579-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>3</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000005730</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>88.515</TD>
+		<TD style="FONT-SIZE: 11px" align=right>110.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-143-001763			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>08:42</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>09:39</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>89</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417081</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA DIAMANTE S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA DIAMANTE S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		GRACIELA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-23225-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000001522</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>324.040</TD>
+		<TD style="FONT-SIZE: 11px" align=right>340.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-143-001762			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>05:08</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>09:33</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>90</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417082</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>CHIMBOTE                           </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>TECNOLOGICA DE ALIMENTOS S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		TASA 17&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				SE-0831-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000006136</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>51.975</TD>
+		<TD style="FONT-SIZE: 11px" align=right>55.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0218-561-002223			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>05:38</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>06:30</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>91</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5417083</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>MALABRIGO                          </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		PESQUERA HAYDUK S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>LOS CARLOS S.R.L.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		ATUN&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				HO-11293-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000005793</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>98.985</TD>
+		<TD style="FONT-SIZE: 11px" align=right>95.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1302-140-002230			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/11/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>09:52</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>10:35</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>SGS</TD>					
+	</TR>		
+
+ 			
+</TABLE>
+<br><br>
+<table border="0" WIDTH="96%">
+<tr>
+<td>
+	<table WIDTH="20%" align="right" border="1" cellpadding="0" cellspacing="0">
+			<tr  style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<td style="WIDTH:50%;FONT-SIZE: 11px;" align="right"><b>Total en TM</b></td>
+			<td style="WIDTH:50%;FONT-SIZE: 11px;" align="right" ><b>10223.280</b></td>
+			</tr>
+	</table>
+</td>
+</tr>
+</table>
+</center>
+<br>
+<br>
+<span style="text-align:left;">
+<table>
+<tr class="fecha2" >
+<td valign="top"><b>Fuente:</b></td>
+<td valign="top" colspan="10">Empresas ejecutoras del "Programa de Vigilancia y Control de la Pesca y Desembarque en el &Aacute;mbito Mar&iacute;timo"</td>
+</tr>
+</table>
+</span>
+</BODY>
+</HTML>

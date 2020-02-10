@@ -1,0 +1,3813 @@
+﻿<HTML>
+<HEAD><TITLE>Reporte por Embarcación</TITLE>
+</HEAD>
+<BODY>
+<center>
+<table  width="96%" cellpadding="0" cellspacing="0" border="0" >
+<tr>
+	<td>
+	<img src="https://extranet.produce.gob.pe/aplicaciones/desembarque/logoproduce.gif" width="175" height="49">
+	</td>
+	<td class="td_intranet_item1"  align="right">&nbsp;</td>
+</tr>
+</table>
+<br><br>
+<br><br>
+<TABLE cellSpacing=0 cellPadding=0 width="96%" bgColor=#eef2f5 border=0  align=center>
+  <TR>
+    <TD class="titulos-servicios-embarcaciones" colspan="16">
+	  <div align="center" style="font-size: 14px;font-weight: bold; "><strong>REPORTE DE DESCARGAS  DEL 01/08/2019 AL 30/08/2019 </strong></div></TD>
+  </TR>
+</TABLE>
+
+<TABLE cellSpacing=0 cellPadding=0 width="96%" align=center border=0>
+        <TR height=20 style="FONT-WEIGHT: bold; FONT-SIZE: 12px; HEIGHT: 25px;">
+			<TD style="WIDTH: 93px;"  class="titulos-servicios-embarcaciones" colspan="2"><B style="font-weight: bold;">PUERTO</B></TD>
+			<TD align=left  class="textoblack"  colspan="4">[TODOS]</TD>
+			<TD style="WIDTH: 93px;"  class="titulos-servicios-embarcaciones" colspan="2"><B style="font-weight: bold;">PLANTA</B></TD>
+			<TD align=left  class="textoblack"  colspan="4">[TODOS]</TD>
+		</TR>
+        <TR height=20 style="FONT-WEIGHT: bold; FONT-SIZE: 12px; HEIGHT: 25px;">
+			<TD style="WIDTH: 93px;"  class="titulos-servicios-embarcaciones" colspan="2"><B style="font-weight: bold;">EMBARCACI&Oacute;N</B></TD>
+			<TD align=left  class="textoblack"  colspan="4"></TD>
+			<TD style="WIDTH: 93px;"  class="titulos-servicios-embarcaciones" colspan="2"><B style="font-weight: bold;">ESPECIE</B></TD>
+			<TD align=left  class="textoblack"  colspan="4">[TODOS]</TD>
+		</TR>
+</TABLE>
+		  <BR>
+<TABLE  WIDTH="96%" class="sortable" id="anyid" 
+style="BORDER-LEFT-COLOR: #30749c; BORDER-BOTTOM-COLOR: #30749c; BORDER-TOP-COLOR: #30749c; BORDER-COLLAPSE: collapse; HEIGHT: 20px; BORDER-RIGHT-COLOR: #30749c" 
+ cellSpacing=0 rules=all border=1  align=center>
+	
+	<TR  style="HEIGHT: 25px;"  class="titulos-servicios-embarcaciones" >
+		<th style="WIDTH: 5%; HEIGHT: 20px" align="center"><div align="center">Nro</div></th>	
+		<th style="WIDTH: 5%; HEIGHT: 20px" align="center"><div align="center">ID</div></th>			
+		<th style="WIDTH: 10%;  HEIGHT: 20px" align="center"><div align="center">Puerto</div></th>				
+		<th style="WIDTH: 15%;  HEIGHT: 20px" align="center"><div align="center">Planta</div></th>			
+		<th style="WIDTH: 15%;  HEIGHT: 20px" align="center"><div align="center">Armador</div></th>	
+		<th style="WIDTH: 10%;  HEIGHT: 20px" align="center"><div align="center">Embarcación</div></th>
+		<th style="WIDTH: 5%;  HEIGHT: 20px" align="center"><div align="center">Matr&iacute;cula</div></th>			
+		<th style="WIDTH: 5%;  HEIGHT: 20px" align="center"><div align="center">Especie</div></th>		
+		<th style="WIDTH: 5%;  HEIGHT: 20px" align="center"><div align="center">Tolva</div></th>
+        <th style="WIDTH: 5%;  HEIGHT: 20px" align="center"><div align="center">Nro. Reporte</div></th>
+        
+		<th style="WIDTH: 2%;  HEIGHT: 20px" align="center"><div align="center">TM Descargadas</div></th>	
+		<th style="WIDTH: 2%;  HEIGHT: 20px" align="center"><div align="center">TM Declarado</div></th>
+		<th style="WIDTH: 10%; HEIGHT: 20px" align="center"><div align="center">Acta de EIP</div></th>				
+		<th style="WIDTH: 2%;  HEIGHT: 20px" align="center"><div align="center">Fecha</div></th>						
+		<th style="WIDTH: 2%;  HEIGHT: 20px" align="center"><div align="center">Hora Inicio</div></th>								
+		<th style="WIDTH: 2%;  HEIGHT: 20px" align="center"><div align="center">Hora T&eacute;rmino</div></th>							
+
+		<th style="WIDTH: 2%;  HEIGHT: 20px" align="center"><div align="center">		  Supervisora</div></th>				
+				
+				
+		</TR>
+
+   	<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>1</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415104</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>LA PLANCHADA                       </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		CFG INVESTMENT S.A.C. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>CFG INVESTMENT S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		ALEJANDRIA III&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-28645-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007083</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>32.730</TD>
+		<TD style="FONT-SIZE: 11px" align=right>30.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0402-047-000403			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>05/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>20:00</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>20:30</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>2</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415105</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>ATICO                              </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>TECNOLOGICA DE ALIMENTOS S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		TASA 210&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-02461-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002635</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>45.870</TD>
+		<TD style="FONT-SIZE: 11px" align=right>45.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0403-044-000604			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>05/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>18:55</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>19:30</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>3</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415106</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>LA PLANCHADA                       </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		CFG INVESTMENT S.A.C. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>CFG INVESTMENT S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		ALEJANDRIA VI&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-10501-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007084</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>33.340</TD>
+		<TD style="FONT-SIZE: 11px" align=right>40.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0402-047-000404			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>05/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>21:00</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>21:25</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>4</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415107</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>ATICO                              </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>TECNOLOGICA DE ALIMENTOS S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		TASA 426&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-11436-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002636</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>41.020</TD>
+		<TD style="FONT-SIZE: 11px" align=right>40.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0403-044-000605			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>05/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>19:42</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>20:05</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>5</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415108</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>LA PLANCHADA                       </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		CFG INVESTMENT S.A.C. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>CFG INVESTMENT S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SIMY 2&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-20667-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007085</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>12.870</TD>
+		<TD style="FONT-SIZE: 11px" align=right>20.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0402-047-000405			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>05/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>21:50</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>22:10</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>6</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415109</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>LA PLANCHADA                       </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		CFG INVESTMENT S.A.C. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>CFG INVESTMENT S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		ELISA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-21909-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007086</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>9.245</TD>
+		<TD style="FONT-SIZE: 11px" align=right>10.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0402-047-000406			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>05/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>22:35</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>22:45</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>7</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415110</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES ECCOLA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		CAJAMARCA 6&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-4826-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007256</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>19.575</TD>
+		<TD style="FONT-SIZE: 11px" align=right>30.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000940			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>06/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>18:40</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>20:19</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>8</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415111</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA HUMACARE S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		JORGITO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-14728-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007882</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>28.815</TD>
+		<TD style="FONT-SIZE: 11px" align=right>40.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000941			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>06/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>20:24</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>20:55</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>9</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415112</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA HUMACARE S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		CHARLY&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-12970-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007257</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>25.120</TD>
+		<TD style="FONT-SIZE: 11px" align=right>30.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000942			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>06/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>20:30</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>21:31</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>10</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415113</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES DE ACUICULTURA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		BALLESTAS I&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-5245-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007258</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>6.235</TD>
+		<TD style="FONT-SIZE: 11px" align=right>20.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000944			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>06/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>21:24</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>21:35</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>11</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415114</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA AZUL S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		TIBURON 3&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-12972-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007259</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>0.470</TD>
+		<TD style="FONT-SIZE: 11px" align=right>5.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000945			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>06/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>21:40</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>22:00</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>12</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415115</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>EMPRESA PESQUERA EXTRACTIVA S.R.LTDA.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SAN MARTIN 3&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PS-6170-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007883</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>30.935</TD>
+		<TD style="FONT-SIZE: 11px" align=right>40.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000943			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>06/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>21:06</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>21:30</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>13</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415116</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>ATICO                              </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>TECNOLOGICA DE ALIMENTOS S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		TASA 411&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PS-11080-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002639</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>17.910</TD>
+		<TD style="FONT-SIZE: 11px" align=right>30.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0403-044-000608			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>07/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>19:13</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>19:41</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>14</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415117</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>ATICO                              </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>TECNOLOGICA DE ALIMENTOS S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		TASA 210&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-02461-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002638</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>42.675</TD>
+		<TD style="FONT-SIZE: 11px" align=right>40.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0403-044-000607			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>07/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>18:15</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>18:35</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>15</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415118</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>ATICO                              </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>TECNOLOGICA DE ALIMENTOS S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		TASA 412&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PS-10061-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002640</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>17.960</TD>
+		<TD style="FONT-SIZE: 11px" align=right>25.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0403-044-000609			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>07/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>20:06</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>20:18</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>16</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415119</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>ATICO                              </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>TECNOLOGICA DE ALIMENTOS S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		TASA 220&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-1250-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002641</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>4.555</TD>
+		<TD style="FONT-SIZE: 11px" align=right>5.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0403-044-000610			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>07/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>20:53</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>20:56</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>17</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415120</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>ATICO                              </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>TECNOLOGICA DE ALIMENTOS S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		TASA 111&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-2466-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002642</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>11.255</TD>
+		<TD style="FONT-SIZE: 11px" align=right>10.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0403-044-000611			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>07/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>21:31</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>21:59</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>18</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415121</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES ECCOLA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SAN ANTONIO 2&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-3043-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007886</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>8.545</TD>
+		<TD style="FONT-SIZE: 11px" align=right>15.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000946			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>07/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>20:40</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>21:20</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>19</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415122</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>ATICO                              </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>TECNOLOGICA DE ALIMENTOS S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		TASA 36&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				HO-6579-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002643</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>30.110</TD>
+		<TD style="FONT-SIZE: 11px" align=right>30.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0403-044-000612			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>07/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>22:18</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>22:35</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>20</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415123</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA MARMAR S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		LOS ANGELES&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PL-17595-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007887</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>7.265</TD>
+		<TD style="FONT-SIZE: 11px" align=right>8.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000948			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>07/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>21:30</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>22:00</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>21</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415124</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>ATICO                              </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>TECNOLOGICA DE ALIMENTOS S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		TASA 22&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-9923-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002644</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>8.975</TD>
+		<TD style="FONT-SIZE: 11px" align=right>10.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0403-044-000613			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>07/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>23:13</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>23:17</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>22</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415125</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES DE ACUICULTURA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		BALLESTAS I&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-5245-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007888</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>11.715</TD>
+		<TD style="FONT-SIZE: 11px" align=right>20.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000949			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>07/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>22:25</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>22:55</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>23</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415126</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES DE ACUICULTURA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MATEO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-2449-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007889</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>12.055</TD>
+		<TD style="FONT-SIZE: 11px" align=right>15.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000947			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>07/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>23:02</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>23:27</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>24</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415127</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>ATICO                              </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>TECNOLOGICA DE ALIMENTOS S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		TASA 17&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				SE-0831-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002645</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>31.825</TD>
+		<TD style="FONT-SIZE: 11px" align=right>35.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0403-044-000614			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>07/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>23:47</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>00:08</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>25</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415128</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>OROSCO CASTRO  JOSE ROSARIO</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		CRISTO REDENTOR&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-29556-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007892</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>28.325</TD>
+		<TD style="FONT-SIZE: 11px" align=right>30.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000950			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>08/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>21:16</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>21:38</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>26</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415129</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>LOS CARLOS S.R.L.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		DON ALFONSO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-1848-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007893</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>5.345</TD>
+		<TD style="FONT-SIZE: 11px" align=right>10.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000953			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>08/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>21:48</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>22:00</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>27</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415130</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA JANO S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		VANESSA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				HO-21106-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007894</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>10.375</TD>
+		<TD style="FONT-SIZE: 11px" align=right>10.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000954			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>08/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>22:12</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>22:40</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>28</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415131</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES DE ACUICULTURA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		BALLESTAS I&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-5245-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007268</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>191.445</TD>
+		<TD style="FONT-SIZE: 11px" align=right>220.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000951			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>08/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>23:24</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>01:50</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>29</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415132</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES DE ACUICULTURA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MATEO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-2449-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007895</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>99.505</TD>
+		<TD style="FONT-SIZE: 11px" align=right>110.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000952			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>09/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:59</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:10</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>30</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415133</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES ECCOLA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		CAJAMARCA 6&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-4826-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007276</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>17.475</TD>
+		<TD style="FONT-SIZE: 11px" align=right>30.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000955			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>09/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>21:45</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>22:20</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>31</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415134</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA MARINHA S.A.C</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MARINHA I&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-61822-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007898</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>7.010</TD>
+		<TD style="FONT-SIZE: 11px" align=right>10.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000956			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>09/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>21:00</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>23:00</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>32</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415135</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CEMBALI S.R.L.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		JUNIN 3&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				IO-2402-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007277</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>10.310</TD>
+		<TD style="FONT-SIZE: 11px" align=right>20.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000957			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>09/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>22:50</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>23:00</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>33</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415136</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES ECCOLA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SAN ANTONIO 2&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-3043-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007899</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>26.245</TD>
+		<TD style="FONT-SIZE: 11px" align=right>30.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000959			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>09/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>23:20</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>23:48</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>34</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415137</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>EMPRESA PESQUERA EXTRACTIVA S.R.LTDA.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SAN MARTIN 3&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PS-6170-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007900</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>40.675</TD>
+		<TD style="FONT-SIZE: 11px" align=right>45.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000960			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>10/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:00</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>00:22</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>35</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415138</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA MARINHA S.A.C</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		BILBAO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-19892-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007278</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>60.445</TD>
+		<TD style="FONT-SIZE: 11px" align=right>60.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000958			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>09/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>23:25</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>00:25</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>36</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415139</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA AZUL S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		TIBURON 3&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-12972-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007282</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>34.240</TD>
+		<TD style="FONT-SIZE: 11px" align=right>40.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000962			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>10/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>01:09</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>01:39</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>37</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415140</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES DE ACUICULTURA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		BALLESTAS I&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-5245-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007902</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>52.615</TD>
+		<TD style="FONT-SIZE: 11px" align=right>70.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000961			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>10/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>01:29</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:18</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>38</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415141</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>GRUPO PESQUERO S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SAN JUAN&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-2771-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007903</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>30.555</TD>
+		<TD style="FONT-SIZE: 11px" align=right>35.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000964			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>10/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>02:31</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:56</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>39</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415142</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES DE ACUICULTURA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MATEO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-2449-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007283</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>37.450</TD>
+		<TD style="FONT-SIZE: 11px" align=right>45.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000963			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>10/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>01:56</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>03:04</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>40</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415143</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA SANTIS S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		PROFETA DANIEL II&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-11884-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007904</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>37.025</TD>
+		<TD style="FONT-SIZE: 11px" align=right>40.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000965			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>10/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>03:04</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>03:29</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>41</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415144</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA HUMACARE S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		JORGITO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-14728-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007284</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>39.795</TD>
+		<TD style="FONT-SIZE: 11px" align=right>50.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000966			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>10/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>03:24</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>04:00</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>42</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415145</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>ATICO                              </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>TECNOLOGICA DE ALIMENTOS S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		TASA 411&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PS-11080-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002647</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>15.625</TD>
+		<TD style="FONT-SIZE: 11px" align=right>20.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0403-044-000620			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>20:33</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>20:54</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>43</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415146</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>ATICO                              </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>TECNOLOGICA DE ALIMENTOS S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		TASA 210&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-02461-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002648</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>35.560</TD>
+		<TD style="FONT-SIZE: 11px" align=right>35.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0403-044-000621			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>21:20</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>21:42</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>44</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415147</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA JANO S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		VANESSA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				HO-21106-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007908</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>15.490</TD>
+		<TD style="FONT-SIZE: 11px" align=right>15.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000967			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>21:54</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>22:17</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>45</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415148</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA MARINHA S.A.C</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MARINHA I&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-61822-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007288</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>23.960</TD>
+		<TD style="FONT-SIZE: 11px" align=right>20.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000968			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>22:10</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>22:36</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>46</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415149</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>ATICO                              </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>TECNOLOGICA DE ALIMENTOS S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		TASA 22&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-9923-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002649</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>18.410</TD>
+		<TD style="FONT-SIZE: 11px" align=right>20.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0403-044-000622			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>22:10</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>22:30</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>47</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415150</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA MARINHA S.A.C</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		BILBAO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-19892-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007909</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>25.275</TD>
+		<TD style="FONT-SIZE: 11px" align=right>30.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000969			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>22:36</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>22:56</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>48</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415151</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES ECCOLA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		CAJAMARCA 6&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-4826-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007289</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>13.390</TD>
+		<TD style="FONT-SIZE: 11px" align=right>25.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000970			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>23:25</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>23:55</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>49</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415152</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>ATICO                              </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		TECNOLOGICA DE ALIMENTOS S.A. 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>TECNOLOGICA DE ALIMENTOS S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		TASA 36&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				HO-6579-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000002650</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>18.715</TD>
+		<TD style="FONT-SIZE: 11px" align=right>15.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		0403-044-000623			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>23:25</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>23:43</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>50</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415153</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES DE ACUICULTURA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		DON FERNANDO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-15314-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007910</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>53.640</TD>
+		<TD style="FONT-SIZE: 11px" align=right>80.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000971			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>12/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>23:02</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>00:38</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>51</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415154</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CASABLANCA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		NATALIE&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-1242-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007291</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>8.820</TD>
+		<TD style="FONT-SIZE: 11px" align=right>10.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000975			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:29</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>00:48</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>52</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415155</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CASABLANCA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SK 5&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-2011-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007292</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>25.395</TD>
+		<TD style="FONT-SIZE: 11px" align=right>25.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000974			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:52</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>01:30</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>53</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415156</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA LAVIANA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MILPAZ&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-1862-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007912</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>2.355</TD>
+		<TD style="FONT-SIZE: 11px" align=right>5.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000981			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>00:40</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>01:35</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>54</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415157</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CENTINELA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		CORINTIA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-10449-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007913</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>6.160</TD>
+		<TD style="FONT-SIZE: 11px" align=right>10.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000978			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>01:40</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:18</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>55</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415158</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES DE ACUICULTURA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		BALLESTAS I&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-5245-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007914</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>8.335</TD>
+		<TD style="FONT-SIZE: 11px" align=right>10.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000979			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>02:21</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:31</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>56</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415159</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CENTINELA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SUSAN VI&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-15568-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007915</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>17.525</TD>
+		<TD style="FONT-SIZE: 11px" align=right>35.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000983			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>02:39</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>03:01</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>57</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415160</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES DE ACUICULTURA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MATEO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-2449-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007293</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>27.650</TD>
+		<TD style="FONT-SIZE: 11px" align=right>35.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000980			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>02:00</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:59</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>58</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415161</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>GRUPO PESQUERO S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		LOCUMBA 5&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-0233-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007916</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>7.690</TD>
+		<TD style="FONT-SIZE: 11px" align=right>15.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000982			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>03:14</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>03:22</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>59</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415162</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA HUMACARE S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		CHARLY&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-12970-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007294</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>21.090</TD>
+		<TD style="FONT-SIZE: 11px" align=right>30.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000984			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>03:11</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>03:50</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>60</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415163</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>OROSCO CASTRO  JOSE ROSARIO</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		CRISTO REDENTOR&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-29556-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007917</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>57.485</TD>
+		<TD style="FONT-SIZE: 11px" align=right>60.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000985			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>03:46</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>04:30</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>61</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415164</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>EMPRESA PESQUERA EXTRACTIVA S.R.LTDA.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SAN MARTIN 3&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PS-6170-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007296</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>12.210</TD>
+		<TD style="FONT-SIZE: 11px" align=right>15.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000987			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>04:43</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>04:57</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>62</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415165</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA AZUL S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		TIBURON 3&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-12972-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007295</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>18.135</TD>
+		<TD style="FONT-SIZE: 11px" align=right>10.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000986			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>04:02</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>04:36</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>63</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415166</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CENTINELA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		ERNESTINA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-10397-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007918</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>19.000</TD>
+		<TD style="FONT-SIZE: 11px" align=right>20.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000989			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>04:49</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>05:09</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>64</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415167</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>GRUPO PESQUERO S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SAN JUAN&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-2771-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007919</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>10.610</TD>
+		<TD style="FONT-SIZE: 11px" align=right>15.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000992			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>05:10</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>05:26</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>65</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415168</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES DE ACUICULTURA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		DON FERNANDO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-15314-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007299</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>9.535</TD>
+		<TD style="FONT-SIZE: 11px" align=right>10.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000993			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>17:09</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>17:26</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>66</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415169</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA HUMACARE S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		CHARLY&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-12970-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007922</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>10.520</TD>
+		<TD style="FONT-SIZE: 11px" align=right>20.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000994			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>17:07</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>17:31</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>67</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415170</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CENTINELA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SUSAN VI&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-15568-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007923</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>4.205</TD>
+		<TD style="FONT-SIZE: 11px" align=right>10.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000995			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>17:42</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>18:05</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>68</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415171</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES ECCOLA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SAN ANTONIO 2&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-3043-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007300</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>7.330</TD>
+		<TD style="FONT-SIZE: 11px" align=right>10.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000996			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>17:51</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>18:07</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>69</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415172</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES DE ACUICULTURA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		BALLESTAS I&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-5245-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007924</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>5.010</TD>
+		<TD style="FONT-SIZE: 11px" align=right>10.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000997			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>18:12</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>18:20</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>70</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415173</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA KARIN S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		HAWAI I&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-1255-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007925</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>10.455</TD>
+		<TD style="FONT-SIZE: 11px" align=right>15.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001002			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>19:00</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>19:23</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>71</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415174</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA MARINHA S.A.C</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MARINHA I&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-61822-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007930</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>29.895</TD>
+		<TD style="FONT-SIZE: 11px" align=right>30.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000998			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>20:33</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>20:58</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>72</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415175</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>LOS CARLOS S.R.L.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		DON ALFONSO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-1848-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007301</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>15.780</TD>
+		<TD style="FONT-SIZE: 11px" align=right>15.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001003			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>18:24</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>20:59</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>73</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415176</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>SALVADOR ZA FISHING S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SALVADOR I&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-21706-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007931</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>6.585</TD>
+		<TD style="FONT-SIZE: 11px" align=right>10.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001004			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>21:17</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>21:43</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>74</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415177</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CENTINELA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		CORINTIA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-10449-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007306</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>10.495</TD>
+		<TD style="FONT-SIZE: 11px" align=right>20.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-000999			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>21:41</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>22:08</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>75</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415178</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES ISLAS DEL CARIBE S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		STEPHANO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-42092-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007932</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>7.975</TD>
+		<TD style="FONT-SIZE: 11px" align=right>15.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001005			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>21:49</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>22:01</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>76</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415179</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CASABLANCA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		BUJAMA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-6331-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007933</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>27.470</TD>
+		<TD style="FONT-SIZE: 11px" align=right>20.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001006			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>22:03</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>22:27</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>77</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415180</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES DE ACUICULTURA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MATEO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-2449-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007307</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>5.820</TD>
+		<TD style="FONT-SIZE: 11px" align=right>10.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001007			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>22:49</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>22:55</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>78</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415181</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CASABLANCA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		OLLEROS&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-6337-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007934</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>42.050</TD>
+		<TD style="FONT-SIZE: 11px" align=right>40.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001008			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>22:42</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>23:06</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>79</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415182</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CASABLANCA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SK 5&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-2011-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007935</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>37.070</TD>
+		<TD style="FONT-SIZE: 11px" align=right>35.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001010			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>23:22</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>23:39</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>80</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415183</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>OROSCO CASTRO  JOSE ROSARIO</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		CRISTO REDENTOR&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-29556-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007308</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>16.245</TD>
+		<TD style="FONT-SIZE: 11px" align=right>25.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001012			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>13/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>23:08</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>23:52</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>81</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415184</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA LAVIANA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MILPAZ&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-1862-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007309</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>29.515</TD>
+		<TD style="FONT-SIZE: 11px" align=right>30.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001011			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>14/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>01:05</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>01:33</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>82</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415185</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>GRUPO PESQUERO S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SAN JUAN&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-2771-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007312</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>9.810</TD>
+		<TD style="FONT-SIZE: 11px" align=right>15.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001013			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>14/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>19:06</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>19:20</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>83</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415186</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>LOS CARLOS S.R.L.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		DON ALFONSO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-1848-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007313</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>30.105</TD>
+		<TD style="FONT-SIZE: 11px" align=right>35.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001014			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>14/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>19:37</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>20:34</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>84</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415187</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CASABLANCA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SK 5&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-2011-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007938</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>14.635</TD>
+		<TD style="FONT-SIZE: 11px" align=right>15.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001015			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>14/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>21:00</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>21:13</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>85</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415188</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CASABLANCA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		NATALIE&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-1242-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007314</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>6.390</TD>
+		<TD style="FONT-SIZE: 11px" align=right>10.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001016			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>14/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>21:08</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>21:14</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>86</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415189</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA LAVIANA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MILPAZ&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-1862-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007939</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>36.770</TD>
+		<TD style="FONT-SIZE: 11px" align=right>40.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001018			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>14/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>21:28</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>22:00</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>87</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415190</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CASABLANCA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		OLLEROS&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-6337-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007315</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>11.415</TD>
+		<TD style="FONT-SIZE: 11px" align=right>15.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001017			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>14/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>22:20</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>22:27</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>88</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415191</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>GRUPO PESQUERO S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SUPE&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-22589-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007316</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>6.445</TD>
+		<TD style="FONT-SIZE: 11px" align=right>10.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001022			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>14/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>22:30</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>22:50</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>89</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415192</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>SALVADOR ZA FISHING S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SALVADOR I&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-21706-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007940</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>21.205</TD>
+		<TD style="FONT-SIZE: 11px" align=right>20.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001019			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>14/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>22:15</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>22:37</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>90</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415193</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES ECCOLA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SAN ANTONIO 2&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-3043-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007941</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>11.760</TD>
+		<TD style="FONT-SIZE: 11px" align=right>10.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001038			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>14/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>22:50</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>22:56</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>91</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415194</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CENTINELA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		ERNESTINA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-10397-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007317</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>17.960</TD>
+		<TD style="FONT-SIZE: 11px" align=right>20.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001021			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>14/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>23:27</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>00:08</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>92</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415195</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CASABLANCA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		BUJAMA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-6331-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007942</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>11.285</TD>
+		<TD style="FONT-SIZE: 11px" align=right>10.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001023			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>14/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>23:46</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>00:07</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>93</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415196</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES DE ACUICULTURA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MATEO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-2449-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007945</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>24.280</TD>
+		<TD style="FONT-SIZE: 11px" align=right>35.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001025			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>15/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>01:00</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>01:35</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>94</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415197</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CENTINELA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MANTA 3&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-6614-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007320</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>6.720</TD>
+		<TD style="FONT-SIZE: 11px" align=right>15.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001026			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>15/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>01:23</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>01:28</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>95</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415198</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CENTINELA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SUSAN VI&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-15568-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007946</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>20.195</TD>
+		<TD style="FONT-SIZE: 11px" align=right>25.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001024			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>15/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>01:46</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:06</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>96</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415199</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CENTINELA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		CORINTIA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-10449-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007321</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>17.655</TD>
+		<TD style="FONT-SIZE: 11px" align=right>25.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001027			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>15/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>01:48</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:06</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>97</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415200</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA MARINHA S.A.C</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		BILBAO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-19892-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007947</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>26.625</TD>
+		<TD style="FONT-SIZE: 11px" align=right>30.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001028			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>15/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>02:14</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:39</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>98</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415201</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>GRUPO PESQUERO S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		LOCUMBA 5&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-0233-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007322</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>13.115</TD>
+		<TD style="FONT-SIZE: 11px" align=right>20.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001029			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>15/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>02:44</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>03:05</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>99</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415202</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA HUMACARE S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		CHARLY&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-12970-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007323</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>2.995</TD>
+		<TD style="FONT-SIZE: 11px" align=right>5.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001031			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>15/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>03:06</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>03:40</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>100</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415203</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES DE ACUICULTURA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		BALLESTAS I&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-5245-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007948</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>12.995</TD>
+		<TD style="FONT-SIZE: 11px" align=right>20.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001030			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>15/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>02:53</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>03:07</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>101</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415204</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CASABLANCA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SK 4&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-2772-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007949</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>40.850</TD>
+		<TD style="FONT-SIZE: 11px" align=right>40.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001032			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>15/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>03:19</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>03:52</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>102</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415205</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>EMPRESA PESQUERA EXTRACTIVA S.R.LTDA.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SAN MARTIN 3&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PS-6170-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007324</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>12.430</TD>
+		<TD style="FONT-SIZE: 11px" align=right>15.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001034			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>15/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>04:02</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>04:08</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>103</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415206</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>GRUPO PESQUERO S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		LULU I&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-11988-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007325</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>7.505</TD>
+		<TD style="FONT-SIZE: 11px" align=right>10.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001037			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>15/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>04:13</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>04:49</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>104</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415207</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA MARINHA S.A.C</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MARINHA I&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-61822-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007951</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>32.025</TD>
+		<TD style="FONT-SIZE: 11px" align=right>25.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001033			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>15/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>04:20</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>04:48</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>105</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415208</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>OROSCO CASTRO  JOSE ROSARIO</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		CRISTO REDENTOR&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-29556-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007950</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>14.550</TD>
+		<TD style="FONT-SIZE: 11px" align=right>20.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001035			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>15/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>03:58</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>04:15</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>106</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415209</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA MARINHA S.A.C</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		BILBAO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-19892-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007328</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>4.625</TD>
+		<TD style="FONT-SIZE: 11px" align=right>10.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001040			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>15/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>21:47</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>22:12</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>107</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415210</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES ECCOLA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SAN ANTONIO 2&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-3043-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007954</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>4.690</TD>
+		<TD style="FONT-SIZE: 11px" align=right>10.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001041			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>15/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>21:45</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>21:55</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>108</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415211</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES DE ACUICULTURA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		BALLESTAS I&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-5245-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007955</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>7.930</TD>
+		<TD style="FONT-SIZE: 11px" align=right>15.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001039			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>15/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>21:59</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>22:10</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>109</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415212</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>LOS CARLOS S.R.L.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		DON ALFONSO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-1848-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007329</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>3.955</TD>
+		<TD style="FONT-SIZE: 11px" align=right>5.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001042			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>15/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>22:30</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>22:37</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>110</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415213</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>EMPRESA PESQUERA EXTRACTIVA S.R.LTDA.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SAN MARTIN 3&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PS-6170-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007330</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>8.340</TD>
+		<TD style="FONT-SIZE: 11px" align=right>10.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001043			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>15/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>22:45</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>23:07</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>111</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415214</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES ECCOLA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SAN ANTONIO 2&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-3043-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2, 2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007337</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>73.795</TD>
+		<TD style="FONT-SIZE: 11px" align=right>80.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001047			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>19/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>18:38</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>20:30</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>112</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415215</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CENTINELA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SUSAN VI&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-15568-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007339</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>24.775</TD>
+		<TD style="FONT-SIZE: 11px" align=right>25.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001048			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>19/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>20:40</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>21:05</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>113</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415216</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CENTINELA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		ERNESTINA&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-10397-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007340</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>25.360</TD>
+		<TD style="FONT-SIZE: 11px" align=right>25.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001049			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>19/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>21:04</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>22:09</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>114</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415217</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA HUMACARE S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		CHARLY&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				PT-12970-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007341</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>33.795</TD>
+		<TD style="FONT-SIZE: 11px" align=right>40.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001055			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>19/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>22:15</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>23:00</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>115</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415218</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES DE ACUICULTURA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		DON FERNANDO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-15314-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007342</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>30.370</TD>
+		<TD style="FONT-SIZE: 11px" align=right>40.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001051			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>19/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>23:00</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>23:40</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>116</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415219</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES DE ACUICULTURA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MATEO&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-2449-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007343</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>66.200</TD>
+		<TD style="FONT-SIZE: 11px" align=right>80.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001052			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>19/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>23:45</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>00:55</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>117</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415220</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>AUSTRAL GROUP S.A.A</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		DON LUIS&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-12186-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007959</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>29.855</TD>
+		<TD style="FONT-SIZE: 11px" align=right>20.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001062			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>19/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>20:25</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>01:45</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>118</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415221</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>GRUPO PESQUERO S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		LOCUMBA 5&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-0233-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007960</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>22.345</TD>
+		<TD style="FONT-SIZE: 11px" align=right>20.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001056			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>20/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>01:47</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:20</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>119</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415222</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA CENTINELA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		MANTA 3&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-6614-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007962</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>26.020</TD>
+		<TD style="FONT-SIZE: 11px" align=right>30.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001058			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>20/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>02:37</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>02:57</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>120</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415223</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES DE ACUICULTURA S.A.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		BALLESTAS I&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-5245-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007345</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>42.115</TD>
+		<TD style="FONT-SIZE: 11px" align=right>50.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001053			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>20/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>01:50</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>04:20</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>121</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415224</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>PESQUERA KARIN S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		HAWAI I&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-1255-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007963</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>5.465</TD>
+		<TD style="FONT-SIZE: 11px" align=right>10.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001059			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>20/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>03:35</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>04:45</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>122</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415225</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>GRUPO PESQUERO S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SUPE&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-22589-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007346</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>11.195</TD>
+		<TD style="FONT-SIZE: 11px" align=right>10.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001060			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>20/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>04:30</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>04:40</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>123</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415226</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>GRUPO PESQUERO S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SAN JUAN&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CO-2771-CM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>1</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007964</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>37.700</TD>
+		<TD style="FONT-SIZE: 11px" align=right>40.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001061			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>20/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>04:55</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>06:00</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 		<TR style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<TD style="FONT-SIZE: 11px" align=left>124</TD>	
+			<TD style="FONT-SIZE: 11px" align=left>5415227</TD>					
+		<TD style="FONT-SIZE: 11px" align=middle>PACOCHA                            </TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>
+		AUSTRAL GROUP S.A.A 				
+		</TD>			
+		<TD style="FONT-SIZE: 11px" align=middle>INVERSIONES ECCOLA S.A.C.</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+		SAN ANTONIO 2&nbsp
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=left>
+				CE-3043-PM&nbsp;
+		</TD>
+		<TD style="FONT-SIZE: 11px" align=right>ANCHOVETA                          </TD>
+		<TD style="FONT-SIZE: 11px" align=middle>2</TD>
+		<TD style="FONT-SIZE: 11px" align=middle>0000007349</TD>        
+		<TD style="FONT-SIZE: 11px" align=right>22.275</TD>
+		<TD style="FONT-SIZE: 11px" align=right>30.000</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>
+		1803-112-001063			  		
+		</TD>			
+		
+		<TD style="FONT-SIZE: 11px" align=right>20/08/2019</TD>		
+		<TD style="FONT-SIZE: 11px" align=middle>17:05</TD>				
+		<TD style="FONT-SIZE: 11px" align=middle>17:35</TD>						
+		
+		<TD style="FONT-SIZE: 11px" align=center>INTERTEK TESTING SERVICE PERU S.A.</TD>					
+	</TR>		
+
+ 			
+</TABLE>
+<br><br>
+<table border="0" WIDTH="96%">
+<tr>
+<td>
+	<table WIDTH="20%" align="right" border="1" cellpadding="0" cellspacing="0">
+			<tr  style="HEIGHT: 17px;" class="textoblack" align=left nowrap="nowrap">
+			<td style="WIDTH:50%;FONT-SIZE: 11px;" align="right"><b>Total en TM</b></td>
+			<td style="WIDTH:50%;FONT-SIZE: 11px;" align="right" ><b>2848.910</b></td>
+			</tr>
+	</table>
+</td>
+</tr>
+</table>
+</center>
+<br>
+<br>
+<span style="text-align:left;">
+<table>
+<tr class="fecha2" >
+<td valign="top"><b>Fuente:</b></td>
+<td valign="top" colspan="10">Empresas ejecutoras del "Programa de Vigilancia y Control de la Pesca y Desembarque en el &Aacute;mbito Mar&iacute;timo"</td>
+</tr>
+</table>
+</span>
+</BODY>
+</HTML>

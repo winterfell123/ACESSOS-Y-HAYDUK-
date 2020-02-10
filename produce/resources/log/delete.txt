@@ -1,0 +1,10 @@
+<wnd app='excel.exe' cls='#32770' title='Guardar como' />
+<wnd aaname='Explorer Pane' cls='DirectUIHWND' />
+<wnd aaname='Nombre de archivo:' cls='ComboBox' />
+<wnd ctrlid='1001' />
+
+
+
+<wnd app='excel.exe' cls='#32770' title='Guardar como' />
+<wnd aaname='Explorer Pane' cls='DirectUIHWND' />
+<wnd aaname='Tipo:' cls='ComboBox' />
